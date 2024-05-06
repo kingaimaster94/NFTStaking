@@ -1,2 +1,6 @@
 # NFTStaking
-SRC721 token mint and staking, claim, unstaking
+ERC721 token mint and staking, claim, unstaking.
+
+#Hardhat
+
+#Build step
