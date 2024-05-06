@@ -1,6 +1,8 @@
 # NFTStaking
 ERC721 token mint and staking, claim, unstaking.
 
-#Hardhat
+# Hardhat
 
-#Build step
+# Next.js
+
+# Build step
