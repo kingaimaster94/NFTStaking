@@ -1,0 +1,9 @@
+node_modules
+.idea
+.env
+node_modules
+build
+
+#Hardhat files
+cache
+artifacts
